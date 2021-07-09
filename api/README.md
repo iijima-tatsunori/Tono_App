@@ -1,5 +1,7 @@
 # README
 
+遠野観光をより楽しむためのアプリです
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
